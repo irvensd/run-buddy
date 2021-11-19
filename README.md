@@ -1,14 +1,18 @@
-# run-buddy
+# run-buddy Inc.
 
-## Purpose 
-A website that offers fitness training services. 
+## Purpose
 
-## Built with 
-*HTML 
+A website that offers fitness training services.
+
+## Built with
+
+*HTML
 *CSS
 
-## Website 
+## Website
+
 https://irvensd.github.io/run-buddy/
 
-## Contribution 
-Made with ❤️ by Irvens Dupuy 
+## Contribution
+
+Made with ❤️ by Irvens Dupuy
